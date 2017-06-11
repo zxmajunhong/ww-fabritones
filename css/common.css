@@ -463,38 +463,65 @@
 }
 
 /*新增的首页*/
+
 .new-index {
-	width: 772px;
-	margin: 0 auto;
+	width: 100%;
 	position: relative;
-	overflow: hidden;
+	margin: 0 0 180px 0
+}
+
+.new-index .new-home-top {
+	width: 100%;
 }
 
 .new-index .top-logo {
 	display: block;
-	width: 266px;
-	height: 37px;
-	margin: 50px auto 230px;
+	width: 363px;
+	height: 60px;
+	position: absolute;
+	top: 45px;
+	left: 50%;
+	margin: 0 0 0 -181px;
 }
 
 .new-index .mid-btn {
+	width: 924px;
 	overflow: hidden;
+	position: absolute;
+	bottom: -100px;
+	left: 50%;
+	margin: 0 0 0 -462px;
 }
 
 .new-index .mid-btn .btn1 {
 	float: left;
-	width: 276px;
-	height: 209px;
+	width: 406px;
+	height: 133px;
 	background: url(../img/btn1.png) no-repeat 0 0;
 	text-decoration: none;
 }
 
 .new-index .mid-btn .btn2 {
 	float: right;
-	width: 276px;
-	height: 209px;
+	width: 406px;
+	height: 133px;
 	background: url(../img/btn2.png) no-repeat 0 0;
 	text-decoration: none;
+}
+
+.new-index-bottom {
+	width: 100%;
+}
+
+.new-index-bottom > p {
+	font-size: 18px;
+	color: #4b4b4b;
+	text-align: center;
+	line-height: 36px;
+}
+
+.new-index-bottom .bottom-bg {
+	width: 100%;
 }
 
 /*新增的contract页面*/
