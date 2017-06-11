@@ -537,32 +537,152 @@
 	margin: 50px auto 40px;
 }
 
-.contract-main .c1 {
+.contract-main .c1 .bg1 {
 	width: 100%;
-	height: 1055px;
-	background: url(../img/contract_01.png) no-repeat top center;
+	height: 211px;
+	background: url(../img/contract/contract_01_01.png) no-repeat top center;
 }
 
-.contract-main .c2 {
+.contract-main .c1 .bg2 {
 	width: 100%;
-	height: 1056px;
-	background: url(../img/contract_02.png) no-repeat top center;
+	height: 211px;
+	background: url(../img/contract/contract_01_02.png) no-repeat top center;
 }
 
-.contract-main .c3 {
+.contract-main .c1 .bg3 {
 	width: 100%;
-	height: 1055px;
-	background: url(../img/contract_03.png) no-repeat top center;
+	height: 211px;
+	background: url(../img/contract/contract_01_03.png) no-repeat top center;
 }
 
-.contract-main .c4 {
+.contract-main .c1 .bg4 {
 	width: 100%;
-	height: 1056px;
-	background: url(../img/contract_04.png) no-repeat top center;
+	height: 211px;
+	background: url(../img/contract/contract_01_04.png) no-repeat top center;
 }
 
-.contract-main .c5 {
+.contract-main .c1 .bg5 {
 	width: 100%;
-	height: 1055px;
-	background: url(../img/contract_05.png) no-repeat top center;
+	height: 211px;
+	background: url(../img/contract/contract_01_05.png) no-repeat top center;
+}
+
+.contract-main .c2 .bg1 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_02_01.png) no-repeat top center;
+}
+
+.contract-main .c2 .bg2 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_02_02.png) no-repeat top center;
+}
+
+.contract-main .c2 .bg3 {
+	width: 100%;
+	height: 212px;
+	background: url(../img/contract/contract_02_03.png) no-repeat top center;
+}
+
+.contract-main .c2 .bg4 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_02_04.png) no-repeat top center;
+}
+
+.contract-main .c2 .bg5 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_02_05.png) no-repeat top center;
+}
+
+.contract-main .c3 .bg1 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_03_01.png) no-repeat top center;
+}
+
+.contract-main .c3 .bg2 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_03_02.png) no-repeat top center;
+}
+
+.contract-main .c3 .bg3 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_03_03.png) no-repeat top center;
+}
+
+.contract-main .c3 .bg4 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_03_04.png) no-repeat top center;
+}
+
+.contract-main .c3 .bg5 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_03_05.png) no-repeat top center;
+}
+
+.contract-main .c4 .bg1 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_04_01.png) no-repeat top center;
+}
+
+.contract-main .c4 .bg2 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_04_02.png) no-repeat top center;
+}
+
+.contract-main .c4 .bg3 {
+	width: 100%;
+	height: 212px;
+	background: url(../img/contract/contract_04_03.png) no-repeat top center;
+}
+
+.contract-main .c4 .bg4 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_04_04.png) no-repeat top center;
+}
+
+.contract-main .c4 .bg5 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_04_05.png) no-repeat top center;
+}
+
+.contract-main .c5 .bg1 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_05_01.png) no-repeat top center;
+}
+
+.contract-main .c5 .bg2 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_05_02.png) no-repeat top center;
+}
+
+.contract-main .c5 .bg3 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_05_03.png) no-repeat top center;
+}
+
+.contract-main .c5 .bg4 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_05_04.png) no-repeat top center;
+}
+
+.contract-main .c5 .bg5 {
+	width: 100%;
+	height: 211px;
+	background: url(../img/contract/contract_05_05.png) no-repeat top center;
 }
